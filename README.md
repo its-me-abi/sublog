@@ -29,3 +29,6 @@ after executing above code we can see following as output, it willbe redirected 
 > if some errors occured inside the with statement then the redirecting functions will gracefully ends
 > 
 > 
+
+### notes
+this code is borrowed
